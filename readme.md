@@ -16,8 +16,8 @@
 > <h2 align="center"> Web Preview</h2>
 
 <div align="center">
-    <img width="400" src="./.github/proffyGif1.gif"/>
-    <img width="400" src="./.github/proffyGif2.gif"/>
+    <img width="600" src="./.github/proffyGif1.gif"/>
+    <img width="600" src="./.github/proffyGif2.gif"/>
 </div>
 
 > ## Technologies 
